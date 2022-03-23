@@ -1,0 +1,3 @@
+beautifulsoup4==4.9.3
+dateparser
+requests==2.25.1
